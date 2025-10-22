@@ -2,7 +2,7 @@
 
 ## Clonar repositor (Una sola vez por proyecto)
 ```
-git clone (url del repositorio, que puede ser ssh o https)
+git clone (url del repositorio, que puede ser ssh o https.)
 ```
 
 ## Ir a la rama Development (dev, develop, development)
